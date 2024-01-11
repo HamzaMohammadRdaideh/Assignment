@@ -1,0 +1,6 @@
+_id,first_name,last_name,email,uuid,career_level,job_major,years_of_experience,degree_type,skills,nationality,city,salary,gender
+659e7f103af7307ee56f21d5,hamza,string,user@example.com,a104194b-1f1d-495a-885a-d148170381ad,Junior,string,0,Bachelor,['string'],string,string,0.0,Male
+659e7f183af7307ee56f21d6,hamza,hamza,user@example.com,a104194b-1f1d-495a-885a-d148170381ad,Junior,string,0,Bachelor,['string'],string,string,0.0,Male
+659e7f2fb99d5829685b555f,hello,hello,user@example.com,805971df-aeb7-4901-808a-510202d9e4fe,Junior,string,0,Bachelor,['string'],string,string,0.0,Male
+659e7f4193ec08818ea075cc,hamza,hamzza,user@example.com,805971df-aeb7-4901-808a-510202d9e4fe,Junior,string,0,Bachelor,['string'],string,string,0.0,Male
+659e7f4593ec08818ea075cd,hamza,hamzza,user@example.com,805971df-aeb7-4901-808a-510202d9e4fe,Junior,string,0,Bachelor,['string'],string,string,0.0,Male
